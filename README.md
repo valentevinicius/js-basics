@@ -4,7 +4,7 @@ Learning Javascript basics before Frameworks
 
 # Pré-requisitos
 * Lógica de programação
-* Cliente e servidor
+* Cliente e servidor [client-server](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/First_steps/Client-Server_overview). ✅
 * Entender o que significa ser case-sensitive
 
 # Importante saber
