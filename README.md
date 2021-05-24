@@ -3,14 +3,14 @@ Learning Javascript basics before Frameworks
 
 
 # Pré-requisitos
-* Lógica de programação
+* Lógica de programação ✅
 * Cliente e servidor [client-server](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/First_steps/Client-Server_overview). ✅
-* Entender o que significa ser case-sensitive
+* Entender o que significa ser case-sensitive ✅
 
 # Importante saber
-* HTML
-* CSS
-* Unicode
+* HTML ✅ [html-basics](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics)
+* CSS ✅[css-basics](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)
+* Unicode ✅
 
 # Como rodar um código JS?
 * Console
