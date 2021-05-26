@@ -4,7 +4,7 @@ Learning Javascript basics before Frameworks
 
 # Pré-requisitos
 * Lógica de programação ✅
-* Cliente e servidor [client-server](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/First_steps/Client-Server_overview). ✅
+* Cliente e servidor ✅ [client-server](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/First_steps/Client-Server_overview).
 * Entender o que significa ser case-sensitive ✅
 
 # Importante saber
@@ -13,20 +13,23 @@ Learning Javascript basics before Frameworks
 * Unicode ✅
 
 # Como rodar um código JS?
-* Console
-* Script tag
-* Link externo
+[js-console] (https://www.w3schools.com/tags/tag_script.asp)
+* Console ✅
+* Script tag ✅
+* Link externo ✅
 
 # Comentários
-* Linha
-* Bloco
+[js-comments] (https://www.w3schools.com/js/js_comments.asp)
+* Linha ✅
+* Bloco ✅
 
 # Variáveis
-* var, let, const
-* escopo
-* hoisting
+* var, let, const ✅ [js-variables](https://www.w3schools.com/js/js_variables.asp)
+* escopo [js-scope] (https://www.w3schools.com/js/js_scope.asp)
+* hoisting [hoisting] (https://developer.mozilla.org/pt-BR/docs/Glossary/Hoisting)
 
 # Tipos
+[data-structures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
 * null
 * Object
 * Function
