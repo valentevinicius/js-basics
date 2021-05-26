@@ -13,20 +13,20 @@ Learning Javascript basics before Frameworks
 * Unicode ✅
 
 # Como rodar um código JS?
-[js-console] (https://www.w3schools.com/tags/tag_script.asp)
+[js-console](https://www.w3schools.com/tags/tag_script.asp)
 * Console ✅
 * Script tag ✅
 * Link externo ✅
 
 # Comentários
-[js-comments] (https://www.w3schools.com/js/js_comments.asp)
+[js-comments](https://www.w3schools.com/js/js_comments.asp)
 * Linha ✅
 * Bloco ✅
 
 # Variáveis
 * var, let, const ✅ [js-variables](https://www.w3schools.com/js/js_variables.asp)
-* escopo [js-scope] (https://www.w3schools.com/js/js_scope.asp)
-* hoisting [hoisting] (https://developer.mozilla.org/pt-BR/docs/Glossary/Hoisting)
+* escopo [js-scope](https://www.w3schools.com/js/js_scope.asp)
+* hoisting [hoisting](https://developer.mozilla.org/pt-BR/docs/Glossary/Hoisting)
 
 # Tipos
 [data-structures](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Data_structures)
